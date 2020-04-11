@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730763430615",
+    "firebase_url": "https://simple-chat-4fe12.firebaseio.com",
+    "project_id": "simple-chat-4fe12",
+    "storage_bucket": "simple-chat-4fe12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730763430615:android:7012bd0089d1f932a1be92",
+        "android_client_info": {
+          "package_name": "com.magody.simplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730763430615-qgh61mfhvs7qpephhvasud9ei25ja7fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGJ2Ic_-Tvlv5R6gCJ0iKQ7HbcC7DfWzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730763430615-qgh61mfhvs7qpephhvasud9ei25ja7fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
